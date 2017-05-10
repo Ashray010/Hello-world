@@ -1,5 +1,9 @@
 # Hello-world
-this is the description of hello world
-this is me writing a bit about myself. i am me... i think.
+the description of hello world
+me writing a bit about myself. i am me... i think.
+
+well i'd like to think so for sure
+
+for sure
 
 
